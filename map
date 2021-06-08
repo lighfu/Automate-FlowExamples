@@ -1,0 +1,29 @@
+{
+    "ver": {
+        "exm": "v1.0-20210607",
+        "flow": "1"
+    },
+    "description": "First Release",
+    "data": {
+        "0": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/01. ライトのON-OFF.png"
+        },
+        "1": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/02. 変数を使ってみる。.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/02. 変数を使ってみる。.png"
+        },
+        "2": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/03. 変数を使ってみる。part 2.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/03. 変数を使ってみる。part 2.png"
+        },
+        "3": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/04. 配列を使う.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/04. 配列を使う.png"
+        },
+        "4": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/05. 配列の大きさ （要素数）を知るには？.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/05. 配列の大きさ （要素数）を知るには？.png"
+        }
+    }
+}
