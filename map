@@ -1,9 +1,9 @@
 {
     "ver": {
-        "exm": "v1.0-20210607",
-        "flow": 1
+        "exm": "v1.01-20210702",
+        "flow": "1"
     },
-    "description": "First Release",
+    "description": "「辞書(Dictionary) を使ってみる」を追加",
     "data": {
         "0": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
@@ -24,6 +24,10 @@
         "4": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/05. 配列の大きさ （要素数）を知るには？.flo",
             "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/05. 配列の大きさ （要素数）を知るには？.png"
+        },
+        "5": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/06. 辞書(dictionary)を使ってみる.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/06. 辞書(dictionary)を使ってみる.png"
         }
     }
 }
