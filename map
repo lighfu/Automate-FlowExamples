@@ -1,9 +1,9 @@
 {
     "ver": {
-        "exm": "v1.01-20210702",
+        "exm": "v1.01-20210724",
         "flow": "1"
     },
-    "description": "「辞書(Dictionary) を使ってみる」を追加",
+    "description": "2つの例を追加",
     "data": {
         "0": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
@@ -28,6 +28,14 @@
         "5": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/06. 辞書(dictionary)を使ってみる.flo",
             "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/06. 辞書(dictionary)を使ってみる.png"
+        },
+        "6": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/07. Expression 条件分岐.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/07. Expression 条件分岐.png"
+        },
+        "7": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/08. Goto, Label ブロックを使ってみる.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/08. Goto, Label ブロックを使ってみる.png"
         }
     }
 }
