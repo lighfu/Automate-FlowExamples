@@ -1,9 +1,9 @@
 {
     "ver": {
-        "exm": "v1.01-20210724",
+        "exm": "v1.01-20211018",
         "flow": "1"
     },
-    "description": "2つの例を追加",
+    "description": "Atomic Store/Load の例を追加しました。",
     "data": {
         "0": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
@@ -36,6 +36,10 @@
         "7": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/08. Goto, Label ブロックを使ってみる.flo",
             "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/08. Goto, Label ブロックを使ってみる.png"
+        },
+        "8": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/09. Atomic Store+Load で変数を保持する.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/09. Atomic Store+Load で変数を保持する.png"
         }
     }
 }
