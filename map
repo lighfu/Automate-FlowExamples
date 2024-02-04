@@ -1,9 +1,9 @@
 {
     "ver": {
-        "exm": "v1.01-20211018",
+        "exm": "v1.02-20240204",
         "flow": "1"
     },
-    "description": "Atomic Store/Load の例を追加しました。",
+    "description": "Ambient Light の例を追加しました。",
     "data": {
         "0": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
