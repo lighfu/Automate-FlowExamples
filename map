@@ -1,9 +1,9 @@
 {
     "ver": {
-        "exm": "v1.02-20240204",
+        "exm": "v1.03-20240629",
         "flow": "1"
     },
-    "description": "Ambient Light の例を追加しました。",
+    "description": "ウェブスクレイピングのサンプルを追加しました。",
     "data": {
         "0": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
@@ -44,6 +44,10 @@
         "9": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/10. Ambient Light で周囲の光の強さを測定する.flo",
             "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/10. Ambient Light で周囲の光の強さを測定する.png"
+        },
+        "10": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/11. Webスクレイピングの例.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/11. Webスクレイピングの例.png"
         }
     }
 }
