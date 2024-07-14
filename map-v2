@@ -3,7 +3,7 @@
         "exm": "v2-20240714",
         "flow": "2"
     },
-    "description": "ウェブスクレイピングのサンプルを追加しました。",
+    "description": "v2-f20240714: map-v2 (New Map Manager)",
     "data": [
       "01. ライトのON-OFF",
       "02. 変数を使ってみる。",
