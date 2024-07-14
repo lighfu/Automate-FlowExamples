@@ -48,6 +48,10 @@
         "10": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/11. Webスクレイピングの例.flo",
             "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/11. Webスクレイピングの例.png"
+        },
+        "11": {
+            "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/12. HTTP Request に Proxy を適応する.flo",
+            "img": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/imgs/12. HTTP Request に Proxy を適応する.png"
         }
     }
 }
