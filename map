@@ -1,9 +1,9 @@
 {
     "ver": {
         "exm": "v1.03-20240629",
-        "flow": "1"
+        "flow": "2"
     },
-    "description": "ウェブスクレイピングのサンプルを追加しました。",
+    "description": "少々動作変更しました。フローチャートをv2に更新してください！\nそうしないと最新のフローチャートの例を読み込むことができません！",
     "data": {
         "0": {
             "flow": "https://raw.githubusercontent.com/lighfu/Automate-FlowExamples/main/flows/01. ライトのON-OFF.flo",
