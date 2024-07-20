@@ -16,6 +16,7 @@
       "09. Atomic Store+Load で変数を保持する",
       "10. Ambient Light で周囲の光の強さを測定する",
       "11. Webスクレイピングの例",
-      "12. HTTP Request に Proxy を適応する"
+      "12. HTTP Request に Proxy を適応する",
+      "13. 1時間後の天気を知る"
     ]
 }
