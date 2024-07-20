@@ -3,7 +3,7 @@
         "exm": "v2-20240720",
         "flow": "2"
     },
-    "description": "v2-f20240714: map-v2 (New Map Manager)",
+    "description": "v2-m20240720: example added #13.",
     "data": [
       "01. ライトのON-OFF",
       "02. 変数を使ってみる。",
