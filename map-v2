@@ -3,7 +3,7 @@
         "exm": "v2-20240720",
         "flow": "2"
     },
-    "description": "v2-m20240720: example added #13,14,15.",
+    "description": "v2-m20240730: example added #16.",
     "data": [
       "01. ライトのON-OFF",
       "02. 変数を使ってみる。",
@@ -19,6 +19,7 @@
       "12. HTTP Request に Proxy を適応する",
       "13. 1時間後の天気を知る",
       "14. Dialog choice のオプションそれぞれ",
-      "15. Sqlite データベース書き込みと読み込み"
+      "15. Sqlite データベース書き込みと読み込み",
+      "16. 現在位置のトリガー"
     ]
 }
